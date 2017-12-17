@@ -1,4 +1,3 @@
-# masti maza
 <html>
 <head>
 <script type='text/javascript'>
